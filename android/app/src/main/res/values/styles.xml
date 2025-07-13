@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aqar App</string>
+    <!-- Replace with your ANDROID client ID -->
+    <string name="default_web_client_id">868140966409-bk0tt2erdclr5pj4pd08tuanbunbba52.apps.googleusercontent.com</string>
+</resources>
